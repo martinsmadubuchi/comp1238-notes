@@ -12,3 +12,14 @@
 - [ SHEIN Official Online Store | Free Shipping]( https://www.shein.com)
 ## Emoji Experiments
 - 😊
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- ctrl-a
+- ctrl-c
+- ctrl-z
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop)
+- Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
